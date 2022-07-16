@@ -5,12 +5,17 @@
 <h3 align="center">Python-developer and Yandex.Practicum graduate from Russia</h3>
 
 <h4 align="center">Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/Docker/Nginx/HTML/CSS/Yandex.Cloud</h4>
+<hr>
+<h1 align='center'> Projects <h1>
 
-<h5> Projects <h5>
-  
-<a href='https://github.com/RomaLosev/fitnes-tracker'> Fitness tracker </a> <br>
+<a href='https://github.com/RomaLosev/foodgram-project-react'> Foodgram recipes service </a>
+<hr>
 <a href='https://github.com/RomaLosev/hw05_final'> YaTube Social network </a> <br>
+<hr>
 <a href='https://github.com/RomaLosev/api_final_yatube'> API for YaTube Social network </a> <br>
+<hr>
 <a href='https://github.com/RomaLosev/yamdb_final'> API for rating service </a> <br>
+<hr>
 <a href='https://github.com/RomaLosev/lesovod'> Web Site for forest company </a> <br>
-<a href='https://github.com/RomaLosev/foodgram-project-react'> Foodgram recipes service </a> <br>
+<hr>
+<a href='https://github.com/RomaLosev/fitnes-tracker'> Fitness tracker </a> <br>

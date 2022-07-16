@@ -7,7 +7,7 @@
 <h4 align="center">Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/Docker/Nginx/HTML/CSS/Yandex.Cloud</h4>
 <hr>
 <h2 align='center'> Projects <h2>
-
+<div align='center'>
 <a href='https://github.com/RomaLosev/foodgram-project-react'> Foodgram recipes service </a>
 <hr>
 <a href='https://github.com/RomaLosev/hw05_final'> YaTube Social network </a> <br>
@@ -19,3 +19,4 @@
 <a href='https://github.com/RomaLosev/lesovod'> Web Site for forest company </a> <br>
 <hr>
 <a href='https://github.com/RomaLosev/fitnes-tracker'> Fitness tracker </a> <br>
+  </div>

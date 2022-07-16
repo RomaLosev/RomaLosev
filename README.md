@@ -4,6 +4,3 @@
 
 <h4 align="center">Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/Docker/Nginx/HTML/CSS/Yandex.Cloud</h4>
 
-
-<main align-"center"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomaLosev)](https://git.io/streak-stats)</main>
-

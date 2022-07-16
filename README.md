@@ -6,7 +6,7 @@
 
 <h4 align="center">Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/Docker/Nginx/HTML/CSS/Yandex.Cloud</h4>
 <hr>
-<h1 align='center'> Projects <h1>
+<h2 align='center'> Projects <h2>
 
 <a href='https://github.com/RomaLosev/foodgram-project-react'> Foodgram recipes service </a>
 <hr>

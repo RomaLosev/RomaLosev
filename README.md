@@ -2,5 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python-developer and Yandex.Practicum graduate from Russia</h3>
 
-# Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/Docker/Nginx/HTML/CSS/Yandex.Cloud
+<h4 align="center">Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/Docker/Nginx/HTML/CSS/Yandex.Cloud</h4>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomaLosev)](https://git.io/streak-stats)
 

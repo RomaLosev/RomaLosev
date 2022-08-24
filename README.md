@@ -5,8 +5,8 @@
 <h3 align="center">Python-developer and Yandex.Practicum graduate from Russia</h3>
 
 <h4 align="center">Languages and Tools 🛠: Python/Django/Django REST Framework/PostgreSQL/Docker/Nginx/HTML/CSS/Yandex.Cloud</h4>
-<hr>
 <h4 align='center'> Projects <h4>
+<hr>
 <div align='center'>
 <a href='https://github.com/RomaLosev/foodgram-project-react'> Foodgram recipes service </a>
 <hr>

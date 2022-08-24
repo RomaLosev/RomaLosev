@@ -10,6 +10,8 @@
 <div align='center'>
 <a href='https://github.com/RomaLosev/foodgram-project-react'> Foodgram recipes service </a>
 <hr>
+<a href='https://github.com/RomaLosev/tg_answer_bot'> Answer bot for Telegram </a> <br>
+<hr>
 <a href='https://github.com/RomaLosev/hw05_final'> YaTube Social network </a> <br>
 <hr>
 <a href='https://github.com/RomaLosev/api_final_yatube'> API for YaTube Social network </a> <br>
@@ -20,5 +22,4 @@
 <hr>
 <a href='https://github.com/RomaLosev/fitnes-tracker'> Fitness tracker </a> <br>
 <hr>
-<a href='https://github.com/RomaLosev/tg_answer_bot'> Answer bot for Telegram </a> <br>
   </div>

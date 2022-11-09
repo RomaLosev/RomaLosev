@@ -5,7 +5,6 @@
 <h3 align='center'>Python-developer and Yandex.Practicum graduate from Russia</h3>
 
 <h4 align='center'>Languages and Tools 🛠: Python/FastAPI/Django/Django REST Framework/SQLalchemy/PostgreSQL/Docker/Nginx/HTML/CSS/Yandex.Cloud/Heroku</h4>
-<h4 align='center'> TG: https://t.me/losevroman  e-mail: losik19-94@yandex.ru </h4>
 <h4 align='center'> Projects <h4>
 <hr>
 <div align='center'>

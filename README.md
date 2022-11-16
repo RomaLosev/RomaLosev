@@ -8,17 +8,23 @@
 <h4 align='center'> Projects <h4>
 <hr>
 <div align='center'>
-<a href='https://github.com/RomaLosev/foodgram-project-react'> Foodgram recipes service </a>
+<a href='https://github.com/RomaLosev/payment_page'> Test assignment (Django, Stripe, Docker, nginx, CI/CD)</a> <br>
 <hr>
-<a href='https://github.com/RomaLosev/tg_answer_bot'> Answer bot for Telegram </a> <br>
+<a href='https://github.com/RomaLosev/async-python-sprint-4'> FastAPI project 'URL shortener' (FastAPI, PosgreSQL, SQLAlchemy, Alembic, Poetry)</a> <br>
 <hr>
-<a href='https://github.com/RomaLosev/hw05_final'> YaTube Social network </a> <br>
+<a href='https://github.com/RomaLosev/async-python-sprint-5'> FastAPI project 'File storage' (FastAPI, PosgreSQL, SQLAlchemy, Alembic, Poetry, Docker, nginx)</a> <br>
 <hr>
-<a href='https://github.com/RomaLosev/api_final_yatube'> API for YaTube Social network </a> <br>
+<a href='https://github.com/RomaLosev/tg_answer_bot'> Pet project Answer bot for Telegram (aiogram)</a> <br>
 <hr>
-<a href='https://github.com/RomaLosev/yamdb_final'> API for rating service </a> <br>
+<a href='https://github.com/RomaLosev/foodgram-project-react'> Foodgram recipes service (DRF, Postgresql, CI/CD, Docker, Nginx) </a>
 <hr>
-<a href='https://github.com/RomaLosev/lesovod'> Web Site for forest company </a> <br>
+<a href='https://github.com/RomaLosev/lesovod'> Pet project Web Site for forest company(Django) </a> <br>
+<hr>
+<a href='https://github.com/RomaLosev/hw05_final'> Social network(Django) </a> <br>
+<hr>
+<a href='https://github.com/RomaLosev/api_final_yatube'> API for Social network (DRF) </a> <br>
+<hr>
+<a href='https://github.com/RomaLosev/yamdb_final'> API for rating service (DRF) </a> <br>
 <hr>
 <a href='https://github.com/RomaLosev/fitnes-tracker'> Fitness tracker </a> <br>
 <hr>

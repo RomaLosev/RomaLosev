@@ -4,7 +4,7 @@
 <img src='https://github.com/blackcater/blackcater/raw/main/images/Hi.gif' height='32'/></h1>
 <h3 align='center'>Python-developer and Yandex.Practicum graduate from Russia</h3>
 
-<h4 align='center'>Languages and Tools 🛠: Python/FastAPI/Django/Django REST Framework/SQLalchemy/PostgreSQL/Docker/Nginx/HTML/CSS/Yandex.Cloud/Heroku</h4>
+<h4 align='center'>Languages and Tools 🛠: Python/FastAPI/Redis/Celery/Django/Django REST Framework/SQLalchemy/PostgreSQL/Docker/Nginx</h4>
 <h3 align='center'> Training projects <h3>
 <hr>
 <div>

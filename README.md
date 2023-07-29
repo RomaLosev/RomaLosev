@@ -5,7 +5,7 @@
 <h3 align='center'>Python-developer from Kazan</h3>
 
 <h4 align='center'>Languages and Tools 🛠: Python/FastAPI/Redis/Celery/Django/Django REST Framework/SQLalchemy</h4>
-<h3 align='center'> Training projects <h3>
+<h3 align='center'> Training projects 2022<h3>
 <hr>
 <div>
 <a href='https://github.com/RomaLosev/async-python-sprint-4'> FastAPI project 'URL shortener' (FastAPI, PosgreSQL, SQLAlchemy, Alembic, Poetry)</a> <br>
@@ -22,13 +22,15 @@
 <hr>
 <a href='https://github.com/RomaLosev/fitnes-tracker'> Fitness tracker </a> <br>
 <hr>
-<h4 align='center'> Test assignments <h4>
+<h4 align='center'> Test assignments 2022<h4>
 <hr>
-<a href='https://github.com/RomaLosev/payment_page'> Django project with Stripe (Django, Stripe, Docker, nginx, CI/CD)</a> <br>
+<a href='https://github.com/RomaLosev/payment_page'> Django project with Stripe (Django, Stripe, Docker, Nginx, CI/CD)</a> <br>
 <hr>
-<a href='https://github.com/RomaLosev/urls_test'> CLI app urls-tester(pytest/poetry/threading/coverage)</a> <br>
+<a href='https://github.com/RomaLosev/wild_bot'> Bot find product position on marketplace (Aiogram/Threading)</a><br>
 <hr>
-  <h4 align='center'> Pet projects <h4>
+<a href='https://github.com/RomaLosev/urls_test'> CLI app urls-tester(Pytest/Poetry/Threading/Coverage)</a> <br>
+<hr>
+  <h4 align='center'> Pet projects 2022<h4>
 <hr>
 <a href='https://github.com/RomaLosev/tg_answer_bot'>Answer bot for Telegram (aiogram)</a> <br>
 <hr>
